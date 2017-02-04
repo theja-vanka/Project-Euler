@@ -12,4 +12,4 @@ while z < 4000000:
     x = y
     y = z
 
-print(z)
+print(tot)
